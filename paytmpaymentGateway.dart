@@ -127,4 +127,16 @@ class _PaytmPaymentScreenState extends State<PaytmPaymentScreen> {
       ),
     );
   }
+  // permissions
+  //          <!-- paytm-->
+  //       <activity
+  //         android:name="com.paytm.pgsdk.PaytmPGActivity"
+  //         android:exported="false"/>
+
+  //     <activity
+  //         android:name="com.paytm.pgsdk.IntentService"
+  //         android:exported="false"/>
+  //     <activity
+  // android:name="com.paytm.pgsdk.threeds.ThreeDSWebviewActivity"
+  // android:exported="false" />
 }
