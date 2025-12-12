@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:paytm_allinonesdk/paytm_allinonesdk.dart';
 
+// paytm payment Gateway
 class PaytmPaymentScreen extends StatefulWidget {
   const PaytmPaymentScreen({super.key});
 
